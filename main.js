@@ -1,4 +1,4 @@
-console.log("hello world")
+console.log("hello world");
 let i = 100;
 
 
